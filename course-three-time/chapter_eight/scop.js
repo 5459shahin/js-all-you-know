@@ -54,3 +54,5 @@ function test(n) {
 }
 
 test(15)
+
+alert('hello')
