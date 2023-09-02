@@ -51,6 +51,8 @@ console.log( 'a' > 'Z')
 
 
 var a = 'I am'
+var a = 'I am'
+var a = 'I am'
 var b = 'Shahin'
 
 var c = a.concat(' ',b)
