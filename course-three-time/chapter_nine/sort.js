@@ -74,3 +74,5 @@ var result4 = arr.some(function (value) {
 })
 console.log(result4)
 
+alert('hello')
+
